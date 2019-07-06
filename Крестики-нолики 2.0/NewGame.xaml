@@ -1,0 +1,75 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Крестики_нолики_2._0.NewGame"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" Loaded="PhoneApplicationPage_Loaded">
+
+    <toolkit:TransitionService.NavigationInTransition>
+        <toolkit:NavigationInTransition>
+            <toolkit:NavigationInTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardIn" />
+            </toolkit:NavigationInTransition.Backward>
+            <toolkit:NavigationInTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardIn" />
+            </toolkit:NavigationInTransition.Forward>
+        </toolkit:NavigationInTransition>
+    </toolkit:TransitionService.NavigationInTransition>
+    <toolkit:TransitionService.NavigationOutTransition>
+        <toolkit:NavigationOutTransition>
+            <toolkit:NavigationOutTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardOut" />
+            </toolkit:NavigationOutTransition.Backward>
+            <toolkit:NavigationOutTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardOut" />
+            </toolkit:NavigationOutTransition.Forward>
+        </toolkit:NavigationOutTransition>
+    </toolkit:TransitionService.NavigationOutTransition>
+
+
+    <!--LayoutRoot представляет корневую сетку, где размещается все содержимое страницы-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel содержит имя приложения и заголовок страницы-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="КРЕСТИКИ-НОЛИКИ 2.0" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="новая игра" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel – поместите здесь дополнительное содержимое-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Slider x:Name="fieldSizeControl" Margin="21,101,131,0" VerticalAlignment="Top" SmallChange="1" Maximum="15" Minimum="5" Value="10" ValueChanged="fieldSizeControl_ValueChanged" MinWidth="3"/>
+            <TextBlock HorizontalAlignment="Left" Margin="21,28,0,0" TextWrapping="Wrap" Text="размер поля" VerticalAlignment="Top" FontSize="36"/>
+            <TextBlock x:Name="fieldSizeShow" HorizontalAlignment="Right" Margin="0,102,21,0" TextWrapping="Wrap" Text="10 x 10" VerticalAlignment="Top" Height="55" FontSize="36" Width="105"/>
+            <Grid x:Name="firstMoveGrid" Margin="21,186,161,184" d:IsHidden="True">
+                <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="первым ходит" VerticalAlignment="Top" FontSize="36"/>
+                <RadioButton x:Name="firstRandomControl" Content="случайный игрок" HorizontalAlignment="Left" Margin="16,53,0,0" VerticalAlignment="Top" IsChecked="True" FontSize="24" Tag="Random" Checked="FirstControlChecked"/>
+                <RadioButton x:Name="firstRedControl" Content="красный игрок" HorizontalAlignment="Left" Margin="16,125,0,0" VerticalAlignment="Top" FontSize="24" Tag="Red" Checked="FirstControlChecked"/>
+                <RadioButton x:Name="firstBlueControl" Content="синий игрок" HorizontalAlignment="Left" Margin="16,197,0,0" VerticalAlignment="Top" FontSize="24" Tag="Blue" Checked="FirstControlChecked"/>
+            </Grid>
+            <Button x:Name="startBtn" Content="Начать игру" Margin="21,0,21,54" VerticalAlignment="Bottom" BorderThickness="0" Height="85" UseLayoutRounding="True" Click="Button_Click_1" Background="#FFBFD9FF" FontSize="24"/>
+            <Grid x:Name="peersGrid" Margin="21,162,21,144">
+                <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="доступные устройства" VerticalAlignment="Top" FontSize="36"/>
+                <ListBox x:Name="peerList" Margin="0" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" VerticalAlignment="Bottom" Height="278.75" SelectionChanged="peerList_SelectionChanged">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding DisplayName}" FontSize="{StaticResource PhoneFontSizeMedium}" Margin="40,0,0,0"/>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </Grid>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

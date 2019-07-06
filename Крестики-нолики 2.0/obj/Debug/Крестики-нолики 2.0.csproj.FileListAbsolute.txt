@@ -1,0 +1,264 @@
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Assets\ApplicationIcon.png
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Крестики-нолики 2.0.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Крестики-нолики 2.0.pdb
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\AppManifest.xaml
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Properties\WMAppManifest.xml
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Крестики_нолики_2._0_Debug_AnyCPU.xap
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\App.g.cs
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\MainPage.g.cs
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\Крестики-нолики 2.0.g.resources
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\Крестики_нолики_2._0.Resources.AppResources.resources
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\Крестики-нолики 2.0.csproj.GenerateResource.Cache
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\Крестики-нолики 2.0.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\Крестики-нолики 2.0.pdb
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\XapCacheFile.xml
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\GamePage.g.cs
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\JeffWilcox.PhoneThemeManager.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Microsoft.Expression.Controls.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Microsoft.Phone.Controls.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Microsoft.Expression.Drawing.dll
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\JeffWilcox.PhoneThemeManager.pdb
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\NewGame.g.cs
+G:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\Крестики-нолики 2.0.csprojResolveAssemblyReference.cache
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Assets\ApplicationIcon.png
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Крестики-нолики 2.0.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Крестики-нолики 2.0.pdb
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\resources.pri
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\AppxManifest.xml
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Крестики-нолики 2.0.build.appxrecipe
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Properties\WMAppManifest.xml
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\AppManifest.xaml
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Крестики-нолики 2.0_Debug_AnyCPU.xap
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\JeffWilcox.PhoneThemeManager.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Microsoft.Expression.Controls.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Microsoft.Expression.Drawing.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\JeffWilcox.PhoneThemeManager.pdb
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\Крестики-нолики 2.0.csprojResolveAssemblyReference.cache
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\App.g.cs
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\MainPage.g.cs
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\GamePage.g.cs
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\NewGame.g.cs
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\Крестики-нолики 2.0.g.resources
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\Крестики_нолики_2._0.Resources.AppResources.resources
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\Крестики-нолики 2.0.csproj.GenerateResource.Cache
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\Крестики-нолики 2.0.dll
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\Крестики-нолики 2.0.pdb
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\priconfig.xml
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\priconfig.xml.intermediate
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\layout.resfiles
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\layout.resfiles.intermediate
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\resources.resfiles
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\resources.resfiles.intermediate
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\pri.resfiles
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\pri.resfiles.intermediate
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\qualifiers.txt
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\qualifiers.txt.intermediate
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\ProjectArchitectures.txt
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\MDILProjectFiles.xml
+E:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\XapCacheFile.xml
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Assets\ApplicationIcon.png
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Крестики-нолики 2.0.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Крестики-нолики 2.0.pdb
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\resources.pri
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\AppxManifest.xml
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Крестики-нолики 2.0.build.appxrecipe
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Properties\WMAppManifest.xml
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\AppManifest.xaml
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Крестики-нолики 2.0_Debug_AnyCPU.xap
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\JeffWilcox.PhoneThemeManager.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\JeffWilcox.PhoneThemeManager.pdb
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\Крестики-нолики 2.0.csprojResolveAssemblyReference.cache
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\App.g.cs
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\MainPage.g.cs
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\GamePage.g.cs
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\NewGame.g.cs
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\Крестики-нолики 2.0.g.resources
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\Крестики_нолики_2._0.Resources.AppResources.resources
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\Крестики-нолики 2.0.csproj.GenerateResource.Cache
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\Крестики-нолики 2.0.dll
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\Крестики-нолики 2.0.pdb
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\priconfig.xml
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\priconfig.xml.intermediate
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\layout.resfiles
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\layout.resfiles.intermediate
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\resources.resfiles
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\resources.resfiles.intermediate
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\pri.resfiles
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\pri.resfiles.intermediate
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\qualifiers.txt
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\qualifiers.txt.intermediate
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\ProjectArchitectures.txt
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\MDILProjectFiles.xml
+D:\Programs\Windows Phone\Крестики-нолики 2.0\Крестики-нолики 2.0\Крестики-нолики 2.0\obj\Debug\XapCacheFile.xml
